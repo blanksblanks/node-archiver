@@ -1,0 +1,31 @@
+{
+  "name": "node-archiver",
+  "version": "0.0.1",
+  "description": "'modules for learning modules'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blanksblanks/node-archiver.git"
+  },
+  "author": "blanksblanks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blanksblanks/node-archiver/issues"
+  },
+  "homepage": "https://github.com/blanksblanks/node-archiver",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.9.2",
+    "gulp-mocha": "^2.0.0",
+    "gulp-util": "^3.0.3",
+    "jshint-stylish": "^1.0.0",
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.6.0"
+  }
+}
